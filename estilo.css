@@ -1,0 +1,106 @@
+p, h1, h2, h3, h4, div {
+	color: #000000;
+	font-family: arial;
+
+}
+
+#Fondo {
+	background: #626B93;
+}
+
+.Título {
+	font-family: Georgia;
+	color: black;
+	background: #424862;
+    margin: auto;
+    position: static;
+   	text-align: center;
+	border-right: 4px inset #3e00a1;
+	border-top: 4px inset #3e00a1;
+	border-left: 4px inset #3e00a1;
+}
+
+
+.imagen {
+	position: relative;
+	top: 0px;
+	border: 4px inset #3e00a1;
+	text-align: center;
+	background: #424862;
+	display: outline-block;
+}
+
+h2 {
+	position: relative;
+	left: 310px;
+	top: 5px;
+	background: #626B93;
+	display: outline-block;
+	font-size: 25px;
+}
+
+.Edad {
+	position: relative;
+	left: 310px;
+	background: #626B93;
+	display: outline-block;
+}
+
+h3 {
+	position: relative;
+	left: 310px;
+	top: 20px;
+	background: #626B93;
+	display: outline-block;
+	font-size: 25px;
+}
+
+.h3 {
+	position: relative;
+	left: 310px;
+	top: 20px;
+	background: #626B93;
+	display: outline-block;
+}
+
+h4 {
+	position: relative;
+	left: 310px;
+	top: 40px;
+	background: #626B93;
+	display: outline-block;
+	font-size: 25px;
+}
+
+.h4 {
+	position: relative;
+	left: 310px;
+	top: 40px;
+	background: #626B93;
+	display: outline-block;
+
+}
+
+.h4-2 {
+	position: relative;
+	left: 310px;
+	top: 40px;
+	background: #626B93;
+	display: outline-block;
+}
+
+.h4-3 {
+	position: relative;
+	left: 310px;
+	top: 40px;
+	background: #626B93;
+	display: outline-block;
+}
+
+.contacto {
+	position: relative;
+	left: 310px;
+	top: 40px;
+	background: #626B93;
+	display: outline-block;
+}
